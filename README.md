@@ -7,7 +7,7 @@
 
 - 📫 como me encontrar **dario_erick2995@hotmail.com https:/www.linkedin.com/in/galdinodario**
 
-- 📄 Saiba mais sobre mim [file:///C:/Users/miche/Downloads/C%C3%B3pia%20de%20Modelo%203.pdf](file:///C:/Users/miche/Downloads/C%C3%B3pia%20de%20Modelo%203.pdf)
+- 📄 Saiba mais sobre mim https://drive.google.com/file/d/1f9CA2DYkUk9xPqtJqyrBLVVJHDk8ls5A/view?usp=drive_link
 
 - ⚡ Fun fact **Sou capaz de melhorar a sua postura em 1 mês**
 

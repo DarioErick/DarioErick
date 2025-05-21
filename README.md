@@ -3,9 +3,9 @@
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/DarioErick/DarioErickDigital](https://github.com/DarioErick/DarioErickDigital)
 
-- 💬 Me pergunte sobre **Power BI, SQL, Dashboards**
+- 💬 Me pergunte sobre **Power BI, SQL, Python, JSON**
 
-- 📫 como me encontrar **dario_erick2995@hotmail.com https://www.linkedin.com/in/dario-galdino-a79271201/**
+- 📫 como me encontrar **dario_erick2995@hotmail.com https:/www.linkedin.com/in/galdinodario**
 
 - 📄 Saiba mais sobre mim [file:///C:/Users/miche/Downloads/C%C3%B3pia%20de%20Modelo%203.pdf](file:///C:/Users/miche/Downloads/C%C3%B3pia%20de%20Modelo%203.pdf)
 

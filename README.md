@@ -6,7 +6,7 @@
 
 📫 How to reach me: [dario_erick2995@hotmail.com](mailto:dario_erick2995@hotmail.com) | LinkedIn [https://www.linkedin.com/in/galdinodario/](https://www.linkedin.com/in/galdinodario/) | Gmail [darioerick2995@gmail.com](mailto:darioerick2995@gmail.com)
 
-📄 Know more about me: Resume
+📄 Know more about me: [Resume](./Dario_Galdino_CV.pdf)
 
 ⚡ Fun fact: I can improve your posture in 1 month
 

@@ -4,7 +4,7 @@
 
 💬 Ask me about Python, SQL, ETL/ELT, Databricks, Spark, Airflow, Power BI, Docker, Kubernetes
 
-📫 How to reach me: [dario_erick2995@hotmail.com](mailto:dario_erick2995@hotmail.com) | LinkedIn [https://www.linkedin.com/in/galdinodario/](https://www.linkedin.com/in/galdinodario/) | [darioerick2995@gmail.com](mailto:darioerick2995@gmail.com)
+📫 How to reach me: [dario_erick2995@hotmail.com](mailto:dario_erick2995@hotmail.com) | LinkedIn [https://www.linkedin.com/in/galdinodario/](https://www.linkedin.com/in/galdinodario/) | Gmail [darioerick2995@gmail.com](mailto:darioerick2995@gmail.com)
 
 📄 Know more about me: Resume
 

@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dario Galdino</h1> <h3 align="center">Data Engineer | ETL/ELT | Python | Databricks | Docker | Kubernetes</h3>
+<h1 align="center">Hi 👋, I'm Dario Galdino</h1> <h3 align="center">AI Engineer | Python | LLM Applications | RAG | AI Agents | FastAPI</h3>
 
 👨‍💻 My projects are available at [https://github.com/DarioErick?tab=repositories](https://github.com/DarioErick?tab=repositories)
 
-💬 Ask me about Python, SQL, ETL/ELT, Databricks, Spark, Airflow, Power BI, Docker, Kubernetes
+💬 Ask me about Python, SQL, ETL/ELT, Databricks, Spark, Airflow, AI Agents, RAG, Kubernetes
 
 📫 How to reach me: [dario_erick2995@hotmail.com](mailto:dario_erick2995@hotmail.com) | LinkedIn [https://www.linkedin.com/in/galdinodario/](https://www.linkedin.com/in/galdinodario/) | Gmail [darioerick2995@gmail.com](mailto:darioerick2995@gmail.com)
 
